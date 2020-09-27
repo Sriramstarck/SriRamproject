@@ -1,0 +1,185 @@
+a{
+    text-decoration: none;
+}
+header{
+    background-color: teal;
+    padding: 1px;
+    background-image: url(college.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+img{
+    width: 80%;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 2%;
+    -webkit-border-radius: 3;
+	-moz-border-radius: 3;
+	-o-border-radius: 3;
+    border-radius: 5px;
+    color: #000000;
+	text-align: center;
+	vertical-align: middle;
+	background-color: rgba(218,234,213,0.60);
+	width:200px;
+	height: 20px;
+}
+footer img{
+     width: 20%;
+}
+footer a{
+    display: inline-block;
+}
+footer{
+    background-color: teal;
+    padding: 1px;
+}
+.Social
+{
+    color: turquoise;
+}
+.intro{
+    display: inline-block;
+    background-color: thistle;
+    padding: 1px;
+}
+.right{
+    float: right;
+    background-color: turquoise;
+    
+    border-radius: 5px;
+    
+}
+.left a:hover,.right a:hover{
+    color: rgb(240, 139, 6);
+}
+.left{
+    background-color: turquoise;
+    border-radius: 5px;
+}
+.news,.courses,.row{
+    background-color: thistle;
+    padding: 1%;
+}
+.course,.contact{
+    background-color: thistle;
+    padding: 1%;
+}
+.help,.form{
+    display: inline-block;
+}
+.help{
+    width: 30%;
+    float: right;
+    border-style: outset;
+
+}
+.form,.form2{
+    width: 60%;
+    border-style: outset;
+}
+.grid,.help,.form{
+    padding: 15px;
+}
+.form{
+    margin-bottom: 10px;
+}
+select,textarea{
+    font:300 16px/22 "Open sans","Helvetica Neue",Arial,sans-serif;
+}
+.register-group label{
+    color: rgb(71, 151, 255);
+    cursor: pointer;
+    font-weight: 400;
+    text-align:left;
+}
+.register-group input,
+.register-group select,
+.register-group textarea{
+    border:1px solid cornflowerblue;
+    border-radius: 5px;
+    color: rgb(20, 73, 220);
+    display: block;
+    margin: 5px 0 27px 0;
+    padding: 5px 8px;
+}
+.register-group input,
+.register-group textarea{
+    width: 50%;
+}
+.register-group select{
+    height: 34px;
+    width: 60px;
+}
+.register-group textarea{
+    height: 78px;
+}
+.courses div{
+    display: inline-block;
+    width: 32%;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(252, 252, 253);
+}
+.courses h3,h4{
+    text-align: center;
+    font-size: large;
+}
+.news li{
+    border-style: groove;
+    font-size: large;
+}
+header div{
+    display: inline-block;
+}
+.address{
+    float: right;
+}
+.intro p,button{
+    font-size: large;
+}
+.course h2{
+    border-style: outset;
+    border-radius: 5px;
+    text-align: center;
+    background-color: darkgrey;
+}
+.course p{
+    border-style: inset;
+    border-radius: 5px;
+    padding: 5px;
+}
+.cse{
+    background-image: url(cse4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.eee{
+    background-image: url(eee.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.mec{
+    background-image: url(mech.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.b1,.b2,.b3{
+    font-size: 10px;
+}
+.contact div{
+    display: inline-block;
+}
+.form2{
+    width: 50%;
+    margin-right: 10px;
+}
+.ram{
+    width: 30%;
+}
